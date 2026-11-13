@@ -1,0 +1,6 @@
+{
+  "name": "IR Beauty Store",
+  "description": "Aplikasi kasir (Point of Sale) dan manajemen inventori dengan scan barcode, backend Nest.js, Swagger API Docs, analitik penjualan, serta pembukuan kasir.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
